@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.genruntimeconfig.cache

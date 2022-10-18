@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\obj\Debug\netcoreapp3.1\07.1 Append Arrays.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\obj\Debug\netcoreapp3.1\07.1 Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\obj\Debug\netcoreapp3.1\07.1 Append Arrays.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\obj\Debug\netcoreapp3.1\07.1 Append Arrays.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\obj\Debug\netcoreapp3.1\07.1 Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\bin\Debug\netcoreapp3.1\07.1 Append Arrays.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\bin\Debug\netcoreapp3.1\07.1 Append Arrays.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\bin\Debug\netcoreapp3.1\07.1 Append Arrays.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\bin\Debug\netcoreapp3.1\07.1 Append Arrays.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\bin\Debug\netcoreapp3.1\07.1 Append Arrays.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\bin\Debug\netcoreapp3.1\07.1 Append Arrays.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\obj\Debug\netcoreapp3.1\07.1 Append Arrays.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\obj\Debug\netcoreapp3.1\07.1 Append Arrays.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\07.1 Append Arrays\obj\Debug\netcoreapp3.1\07.1 Append Arrays.genruntimeconfig.cache

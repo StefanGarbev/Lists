@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\04 - Methods\List\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache
